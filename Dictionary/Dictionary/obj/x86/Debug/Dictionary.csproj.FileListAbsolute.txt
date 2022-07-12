@@ -1,0 +1,16 @@
+E:\New folder\SEMESTER 3\DATA STRUCTURES & ALGORITHMS\LABS\examples\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+E:\New folder\SEMESTER 3\DATA STRUCTURES & ALGORITHMS\LABS\examples\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+E:\New folder\SEMESTER 3\DATA STRUCTURES & ALGORITHMS\LABS\examples\Dictionary\Dictionary\obj\x86\Debug\Dictionary.exe
+E:\New folder\SEMESTER 3\DATA STRUCTURES & ALGORITHMS\LABS\examples\Dictionary\Dictionary\obj\x86\Debug\Dictionary.pdb
+C:\Users\Shoaib Shah\Downloads\Dictionary\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\Shoaib Shah\Downloads\Dictionary\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\Shoaib Shah\Downloads\Dictionary\Dictionary\Dictionary\obj\x86\Debug\Dictionary.csprojAssemblyReference.cache
+C:\Users\Shoaib Shah\Downloads\Dictionary\Dictionary\Dictionary\obj\x86\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Shoaib Shah\Downloads\Dictionary\Dictionary\Dictionary\obj\x86\Debug\Dictionary.exe
+C:\Users\Shoaib Shah\Downloads\Dictionary\Dictionary\Dictionary\obj\x86\Debug\Dictionary.pdb
+D:\BSE 3-A\DSA\Project\Dictionary\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+D:\BSE 3-A\DSA\Project\Dictionary\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+D:\BSE 3-A\DSA\Project\Dictionary\Dictionary\Dictionary\obj\x86\Debug\Dictionary.csprojAssemblyReference.cache
+D:\BSE 3-A\DSA\Project\Dictionary\Dictionary\Dictionary\obj\x86\Debug\Dictionary.csproj.CoreCompileInputs.cache
+D:\BSE 3-A\DSA\Project\Dictionary\Dictionary\Dictionary\obj\x86\Debug\Dictionary.exe
+D:\BSE 3-A\DSA\Project\Dictionary\Dictionary\Dictionary\obj\x86\Debug\Dictionary.pdb
