@@ -2,7 +2,7 @@
 
  - Console Based Project
 
-Technology User
+Technology Used
  - Visual Studio 2019
  
  Algorithm and concept Used
